@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>sobre mim</title>
+    <style>
+      h1 {
+        text-align: center;
+        color: gray;
+        font-family: cursive;
+      }
+      h2 {
+        font-family: cursive;
+        color: rgb(255, 255, 255);
+      }
+      h3 {
+        font-family: cursive;
+        color: rgb(255, 255, 255);
+      }
+      body {
+        background-color: black;
+      }
+      .primeiro {
+        width: 25%;
+        text-align: left;
+        float: left;
+        margin-right: 30px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>About Me</h1>
+    <div>
+      <img
+        class="primeiro"
+        src="https://media.discordapp.net/attachments/1006297383212175432/1083126913507266610/1678307950175.png?width=498&height=498"
+        alt="eu mesmo" />
+        <h2>Sobre mim</h2>
+        <h3>eu sou Kayky estudante do ensino medio tenho 17 anos prazer em conhecer voce!</h3>
+    </div>
+  </body>
+</html>
